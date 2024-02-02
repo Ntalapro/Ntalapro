@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+# Deployed Apps
+
+-- Simple Quiz App
+  - Mobile Responsive
+`https://ntalapro.github.io/quiz-app/`
+
+-- Fake E-commerce Store
+  - Not Mobile Reponsive Yet
+`https://the-fake-store.web.app/`
+
 <!--
 **Ntalapro/Ntalapro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
